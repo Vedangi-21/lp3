@@ -1,5 +1,3 @@
-
-# Write a iterative program to calculate Fibonacci numbers and find its step count.
 COUNT = 0
 x=int(input("Enter Number of Terms :"))
 first=0
